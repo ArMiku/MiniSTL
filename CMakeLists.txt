@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 11)
 # 指定lib目录
 include_directories(${PROJECT_SOURCE_DIR}/MiniSTL)
 
-add_executable(test Test/library.cpp)
+#add_executable(test Test/library.cpp)
