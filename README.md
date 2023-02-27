@@ -7,7 +7,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + constructor  
     + construct  
     + destroy  
-  + allocator (coming soon)  
+  + allocator
 + 迭代器  
   + iterator (30%左右)  
 + 仿函数 (coming soon)  
