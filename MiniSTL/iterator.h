@@ -341,8 +341,6 @@ namespace mystl {
         return !(lhs < rhs);
     }
 
-
-
 }
 
 #endif //MINISTL_ITERATOR_H
