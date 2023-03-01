@@ -9,7 +9,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
     + destroy  
   + allocator
 + 迭代器  
-  + iterator (30%左右)  
+  + iterator  
 + 仿函数 (coming soon)  
   + functional (coming soon)  
   + hash_functional (coming soon)  
