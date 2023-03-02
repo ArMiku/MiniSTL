@@ -13,8 +13,8 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
 + 仿函数 (coming soon)  
   + functional (coming soon)  
   + hash_functional (coming soon)  
-+ 容器 (coming soon)  
-  + vector (coming soon)  
++ 容器  
+  + vector  
   + list (coming soon)  
   + deque (coming soon)  
   + map (coming soon)  
