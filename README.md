@@ -16,7 +16,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
 + 容器  
   + vector  
   + list
-  + deque (coming soon)  
+  + deque (coding)  
   + map (coming soon)  
   + set (coming soon)  
   + unordered_map (coming soon)  
