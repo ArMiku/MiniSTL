@@ -22,16 +22,16 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + unordered_map (coming soon)  
   + unordered_set (coming soon)  
   + basic_string (coming soon)  
-+ 算法 (coming soon)  
++ 算法  
   + 基本算法 (coming soon)  
   + 数值算法 (coming soon)  
   + set算法 (coming soon)  
-  + heap算法 (coming soon)  
+  + heap算法  
   + 其他算法 (coming soon)  
 + 配接器  
   + container adapters  
     + stack  
     + queue  
-    + priority_queue (coding)  
+    + priority_queue  
   + iterator adapters (coming soon)  
     + reverse_iterator (coming soon)   
