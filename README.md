@@ -30,7 +30,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + 其他算法 (coming soon)  
 + 配接器 (coming soon)  
   + container adapters (coming soon)  
-    + stack (coding)  
+    + stack  
     + queue (coding)  
     + priority_queue (coming soon)  
   + iterator adapters (coming soon)  
