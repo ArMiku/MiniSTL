@@ -16,7 +16,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
 + 容器  
   + vector  
   + list
-  + deque (coding)  
+  + deque  
   + map (coming soon)  
   + set (coming soon)  
   + unordered_map (coming soon)  
@@ -30,8 +30,8 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + 其他算法 (coming soon)  
 + 配接器 (coming soon)  
   + container adapters (coming soon)  
-    + stack (coming soon)  
-    + queue (coming soon)  
+    + stack (coding)  
+    + queue (coding)  
     + priority_queue (coming soon)  
   + iterator adapters (coming soon)  
     + reverse_iterator (coming soon)   
