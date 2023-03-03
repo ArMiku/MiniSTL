@@ -28,10 +28,10 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + set算法 (coming soon)  
   + heap算法 (coming soon)  
   + 其他算法 (coming soon)  
-+ 配接器 (coming soon)  
-  + container adapters (coming soon)  
++ 配接器  
+  + container adapters  
     + stack  
-    + queue (coding)  
-    + priority_queue (coming soon)  
+    + queue  
+    + priority_queue (coding)  
   + iterator adapters (coming soon)  
     + reverse_iterator (coming soon)   
