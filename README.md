@@ -24,7 +24,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + basic_string (coming soon)  
 + 算法  
   + 基本算法 
-  + 数值算法 (coming soon)  
+  + 数值算法
   + set算法 
   + heap算法  
   + 其他算法 (coming soon)  
