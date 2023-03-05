@@ -18,7 +18,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + list
   + deque  
   + map (coming soon)  
-  + set (coming soon)  
+  + set
   + unordered_map (coming soon)  
   + unordered_set (coming soon)  
   + basic_string (coming soon)  
