@@ -21,7 +21,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + set
   + unordered_map  
   + unordered_set  
-  + basic_string (coming soon)  
+  + basic_string
 + 算法  
   + 基本算法 
   + 数值算法
@@ -33,5 +33,5 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
     + stack  
     + queue  
     + priority_queue  
-  + iterator adapters (coming soon)  
-    + reverse_iterator (coming soon)   
+  + iterator adapter
+    + reverse_iterator 
