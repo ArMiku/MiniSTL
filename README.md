@@ -10,9 +10,9 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + allocator
 + 迭代器  
   + iterator  
-+ 仿函数 (coming soon)  
-  + functional (coming soon)  
-  + hash_functional (coming soon)  
++ 仿函数
+  + functional
+  + hash_functional
 + 容器  
   + vector  
   + list
@@ -27,7 +27,7 @@ Reference is《STL源码剖析》 by 侯捷 and [MyTinySTL by Alinshans](https:/
   + 数值算法
   + set算法 
   + heap算法  
-  + 其他算法 (coming soon)  
+  + 其他算法
 + 配接器  
   + container adapters  
     + stack  
